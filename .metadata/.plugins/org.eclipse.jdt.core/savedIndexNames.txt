@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\yorik\Documents\workspaces_mds_java_20_21\.metadata\.plugins\org.eclipse.jdt.core
+895738554.index
+2670945826.index
+2945627573.index
+713297305.index
+2355779126.index
+2992749598.index
